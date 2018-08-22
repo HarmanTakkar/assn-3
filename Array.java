@@ -15,11 +15,11 @@ a[j] = temp;
 }
 }
 System.out.print("Ascending Order:{");
-for (i=0;i<8-1;i++) 
+for (i=0;i<7;i++) 
 {
 System.out.print(a[i] + ",");
 }
-System.out.print(a[8-1]);
+System.out.print(a[7]);
 System.out.print("}");
 }
 }
